@@ -1,0 +1,4 @@
+[submodule "public."]
+	path = public.
+	url = https://git@github.com/Nashoba-tobi/Nashoba-tobi.github.io.git
+	branch = master
